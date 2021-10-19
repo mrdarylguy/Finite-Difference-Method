@@ -1,5 +1,6 @@
 '''
 This script approximates roots of a function to within a given error tolerance
+using the Newton Raphson Method of differentiation
 
 '''
 import numpy as np
